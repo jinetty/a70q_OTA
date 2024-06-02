@@ -4,14 +4,21 @@ Device: Samsung Galaxy A70 (a70q)
 Device maintainer: Jinetty21
 
 ====================
-     12-22-2023
+     06-02-2024
+====================
+
+	* Fixed OTA configuration
+	* Synced latest crDroid source
+
+====================
+     05-28-2024
 ====================
 
    * Synced with latest crDroid source
    * Signed with custom signing keys to pass `MEETS_DEVICE_INTEGRITY` verdict. (Thanks Google for this unnecessary addition)
 
 ====================
-     12-02-2023
+     05-17-2024
 ====================
 
    * Initial OTA release
