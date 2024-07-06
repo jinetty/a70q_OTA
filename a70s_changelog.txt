@@ -1,0 +1,12 @@
+Highlights & Device Specific Changes:
+Build type: Unofficial
+Device: Samsung Galaxy A70 (a70s)
+Device maintainer: Jinetty21
+
+====================
+     07-06-2024
+====================
+
+   * Initial OTA release
+   * QPR3 Release
+   * Synced with latest crDroid sources

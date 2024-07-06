@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "Jinetty21",
+			"oem": "Samsung",
+			"device": "Galaxy A70s",
+			"filename": "crDroidAndroid-14.0-20240706-a70s-v10.6.zip",
+			"download": "https://github.com/jinetty/a70q_OTA/releases/download/20240706/crDroidAndroid-14.0-20240706-a70s-v10.6.zip",
+			"timestamp": 1720284782,
+			"md5": "f481ea3b46bb61c5b47f642f9069036a",
+			"sha256": "26153ca0c30d3c01f9c56c95ab465209ffb6c64630524ce2e66e6273b3a7179f",
+			"size": 1411333579,
+			"version": "10.6",
+			"buildtype": "Unofficial",
+			"forum": "",
+			"gapps": "https://wiki.lineageos.org/gapps",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "https://github.com/jinetty/a70q_OTA/releases/download/20240706/crDroidAndroid-14.0-20240706-a70s-v10.6-recovery.tar",
+			"paypal": "",
+			"telegram": "https://t.me/Jinetty21",
+			"dt": "https://github.com/a70q-lineage/android_device_samsung_a70s/tree/lineage-21",
+			"common-dt": "https://github.com/a70q-lineage/android_device_samsung_sm6150-common/tree/lineage-21",
+			"kernel": "https://github.com/a70q-lineage/android_kernel_samsung_sm6150/tree/lineage-21"
+		}
+	]
+}
