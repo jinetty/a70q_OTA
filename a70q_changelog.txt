@@ -1,7 +1,15 @@
 Highlights & Device Specific Changes:
-Build type: Monthly
+Build type: Unofficial
 Device: Samsung Galaxy A70 (a70q)
 Device maintainer: Jinetty21
+
+====================
+     07-06-2024
+====================
+
+	* QPR3 Release
+	* Synced latest crDroid source
+	* Updated vendor to A705FNXXU5DXD3
 
 ====================
      06-02-2024
