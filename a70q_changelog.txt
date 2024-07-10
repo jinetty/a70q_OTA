@@ -4,6 +4,13 @@ Device: Samsung Galaxy A70 (a70q)
 Device maintainer: Jinetty21
 
 ====================
+     07-10-2024
+====================
+
+	* Synced latest crDroid source
+	* Fully announced 10.6 release and its features (https://crdroid.net/blog/2024-07-06-crDroid-10.6-released)
+
+====================
      07-06-2024
 ====================
 
