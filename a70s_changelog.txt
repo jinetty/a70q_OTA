@@ -4,6 +4,14 @@ Device: Samsung Galaxy A70 (a70s)
 Device maintainer: Jinetty21
 
 ====================
+     08-12-2024
+====================
+
+	* Synced latest crDroid source
+	* August 2024 security update
+	* Changed device source to official device tree at lineage (thanks to big man @rtd1250 for official bringup o7)
+
+====================
      07-10-2024
 ====================
 
