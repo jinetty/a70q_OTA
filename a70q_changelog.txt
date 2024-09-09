@@ -4,6 +4,13 @@ Device: Samsung Galaxy A70 (a70q)
 Device maintainer: Jinetty21
 
 ====================
+     09-09-2024
+====================
+
+	* Synced latest crDroid source
+	* September security update
+
+====================
      09-05-2024
 ====================
 
