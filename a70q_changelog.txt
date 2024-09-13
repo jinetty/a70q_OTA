@@ -4,6 +4,12 @@ Device: Samsung Galaxy A70 (a70q)
 Device maintainer: Jinetty21
 
 ====================
+     09-13-2024
+====================
+     * Synced latest crDroid source
+     * Possible fix of memory leaks
+
+====================
      09-09-2024
 ====================
 
