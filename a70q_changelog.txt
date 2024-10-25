@@ -4,6 +4,13 @@ Device: Samsung Galaxy A70 (a70q)
 Device maintainer: Jinetty21
 
 ====================
+     10-25-2024
+====================
+     * Synced latest crDroid source
+     * October security update
+     * Play Integrity attestation method restored previous one once again but almost all of fingerprints are broken because of Google.
+
+====================
      09-13-2024
 ====================
      * Synced latest crDroid source
